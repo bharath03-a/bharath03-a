@@ -18,7 +18,7 @@
 
 - 🎓 Undergraduation from IIT Patna, India
 
-- 📄 Know about my experiences at 
+- 📄 Know about my experiences at [resume](https://drive.google.com/file/d/1bal-OuFLef4HeiFaRjyXt6FaXJ7jPuQt/view?usp=sharing)
 
 <div align="center">
 <h3>Tech Stack</h3>
@@ -26,9 +26,10 @@
 ![Python](https://img.shields.io/badge/-Python-000?&style=for-the-badge&logo=Python)
 ![R](https://img.shields.io/badge/-R-000?&style=for-the-badge&logo=R)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-000?&style=for-the-badge&logo=Docker)
 ![SQL](https://img.shields.io/badge/-SQL-000?&style=for-the-badge&logo=MySQL)
 ![Git](https://img.shields.io/badge/-git-000?&style=for-the-badge&logo=git)
 </div>
