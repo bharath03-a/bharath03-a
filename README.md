@@ -12,7 +12,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&style=for-the-badge&logo=Docker)
 ![SQL](https://img.shields.io/badge/-SQL-000?&style=for-the-badge&logo=MySQL)
 ![Git](https://img.shields.io/badge/-git-000?&style=for-the-badge&logo=git)
-  
+</div>
 
 - 🌱 I’m currently pursuing my master's in Data Science at University of Arizona
 
@@ -23,3 +23,17 @@
 - 🤔 I’m looking for help with ML
 
 - 💬 Ask me about `Data Engineering`
+
+<div align="center">
+<h2> 📈 &nbsp;My GitHub History!</h2>
+<a href="https://github.com/bharath03-a">
+  
+  <img height="180em" src="https://streak-stats.demolab.com?user=bharath03-a&theme=noctis-minimus&fire=008AE6&ring=38678F" class="center"/>
+  <br>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bharath03-a&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bharath03-a&theme=noctis_minimus&layout=compact" />
+</a>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharath03-a&show_icons=true&locale=en&layout=compact" alt="bharath03-a" /></p>
+
+</div>
