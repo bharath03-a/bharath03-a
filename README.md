@@ -1,12 +1,12 @@
 [![GitHub Badge](https://img.shields.io/github/followers/bharath03-a?style=social)](https://github.com/bharath03-a?tab=followers)
 
+<h2 align="center">👨‍💻 Greetings!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h2>
+<h3 align="center">I am Bharath, a passionate Data Engineer and an aspiring data scientist.</h3>
+<h3 align="center">Two years experience in data engineering | data visulisation | Google Cloud | Devops</h3>
+
 <div id="header" align="center">
   <img src="https://media.tenor.com/IQ6Z-aPhr1wAAAAd/date-everywhere-data.gif" width="500"/>
 </div>
-
-<h2 align="center">👨‍💻 Greetings!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h2>
-<h3 align="center">A passionate Data Engineer and an aspiring data scientist.</h3>
-<h3 align="center">Two years experience in data engineering | data visulisation | Google Cloud | Devops</h3>
 
 - 🌱 I’m currently pursuing my master's in Data Science at University of Arizona
 
