@@ -2,10 +2,10 @@
 
 <h1 align="center">👨‍💻 Greetings!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 <h3 align="left">I am Bharath, a passionate Data Engineer and an aspiring Data Scientist, the modern day Sherlock Holmes.</h3>
+<h4 align="center">Data engineering | Data visulisation | Google Cloud | Machine Learning</h4>
 <div id="header" align="center">
   <img src="https://media.tenor.com/IQ6Z-aPhr1wAAAAd/date-everywhere-data.gif" width="500"/>
 </div>
-<h4 align="center">Data engineering | Data visulisation | Google Cloud | Machine Learning</h4>
 
 - 🌱 I’m currently pursuing my master's in Data Science at University of Arizona
 
