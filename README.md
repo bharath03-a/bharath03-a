@@ -1,7 +1,7 @@
 [![GitHub Badge](https://img.shields.io/github/followers/bharath03-a?style=social)](https://github.com/bharath03-a?tab=followers)
 
 <h1 align="center">👨‍💻 Greetings!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
-<h3 align="left">I am Bharath, a passionate Data Engineer and an aspiring Data Scientist, the modern day Sherlock Holmes.</h3>
+<h3 align="left">I am Bharath, a passionate Data Engineer and an aspiring Data Scientist.</h3>
 <h4 align="center">I can be helpful in Data engineering | Data visulisation | Machine Learning | Google Cloud</h4>
 <div id="header" align="center">
   <img src="https://media.tenor.com/IQ6Z-aPhr1wAAAAd/date-everywhere-data.gif" width="500"/>
