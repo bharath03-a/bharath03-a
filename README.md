@@ -1,3 +1,5 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20my%20%profile&textBg=false&fontAlign=50&animation=twinkling&desc=Dive%20into%20my%20world&fontColor=0D1B6A&descSize=15)
+
 [![GitHub Badge](https://img.shields.io/github/followers/bharath03-a?style=social)](https://github.com/bharath03-a?tab=followers)
 
 <h1 align="center">👨‍💻 Greetings!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
